@@ -1,0 +1,15 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment configuration
+.env
+.env.*
+!.env.example
+
+# Operating-system and workbook temporary files
+.DS_Store
+Thumbs.db
+~$*
